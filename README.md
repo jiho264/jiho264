@@ -1,2 +1,3 @@
-- Incheon National University, ESE
+- Department of Embedded Systems Engineering
+- Incheon National University, Incheon, Korea
 - jiho264@naver.com
