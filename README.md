@@ -1,5 +1,3 @@
-# Hello
-- Dept. of Embedded Systems Engineering, Information Technology
-- Incheon National University, Incheon, Korea
-- jiho264@inu.ac.kr
-- jiho264@naver.com
+> Dept. of Embedded Systems Engineering, Incheon National University, Korea
+> jiho264@inu.ac.kr
+> jiho264@naver.com
